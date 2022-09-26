@@ -1,0 +1,11 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=bodhi-e25-green-gtk
+Comment=Bodhi green GTK-theme in flat-look
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+Name=bodhi-e25-green-gtk
+GtkTheme=bodhi-e25-green-gtk
+IconTheme=bodhi-e25-green-gtk
+MetacityTheme=bodhi-e25-green-gtk
