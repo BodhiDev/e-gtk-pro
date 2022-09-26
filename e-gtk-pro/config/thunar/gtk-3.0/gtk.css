@@ -1,0 +1,14 @@
+/* Test */
+/* .thunar .standard-view .view :selected {color: #ffffff; background-color: mix(#3399ff,#f7fbff,0.5);} */
+/* .thunar .sidebar .view  :selected {color: #ffffff; background-color: #383838;} */
+/* {color: #3399ff; background-color: mix(#1f1b15,#fcfcfb,0.5);} */
+/* {border-bottom:2px solid rgba(51,153,255,0.8);} */
+
+/* Override for e-gtk-pro theme, that makes Thunar more simmilar to 
+Enlightenment file manager, but Thunar looks much better without. */
+/* Hotfix for selected icons and text in Thunar, font color fix */
+.thunar .sidebar .view {background-color: #404040;}
+.thunar .standard-view .view {background-color: #404040;}
+.thunar .sidebar .view  :selected {color: #ffffff; background-color: #3399ff;}
+.thunar .standard-view .view :selected {color: #ffffff; background-color: #3399ff;}
+

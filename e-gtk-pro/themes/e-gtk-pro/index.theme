@@ -1,0 +1,11 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=e-gtk-pro
+Comment=A dark, flat GTK-theme, to better match the look of GTK applications in Enlightenment e25
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+Name=e-gtk-pro
+GtkTheme=e-gtk-pro
+IconTheme=e-gtk-pro
+MetacityTheme=e-gtk-pro

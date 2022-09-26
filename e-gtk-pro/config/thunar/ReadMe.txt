@@ -1,0 +1,1 @@
+Place the gtk.css file in .config/gtk-3.0 folder, log-out, and log-in again.
